@@ -1,9 +1,9 @@
 ---
-Title: Report
+Title: Presentations
 Description: The course report page
 ---
 
-Redovisningssida för design
+Presentations
 ==================
 
 * [Kmom01](report/kmom01){.kmoms}
