@@ -8,19 +8,19 @@ Kursmoment 1
 
 #### Har du jobbat med ramverk eller andra CMS:er tidigare?
 
-Jag har jobbat lite i wordpress tidigare när jag hade praktik på kommunikationsenheten i Karlshamn. Det var intressant att jobba i det, kändes inte riktigt som kodning utan mer som att jobba i word eller något. Det var för att det jag gjorde var inte grafiskt arbete utan jag fick bara lägga till information i vissa fält.
+Nej, Jag har inte jobbat med  ramverk eller något liknande. Men jag har en fotograf bakgrund så jag har jobbat med lite design inom photoshop men jag tror inte det är något ni menar. 
 
 #### Det blev en del nya verktyg och tekniker i labbmiljön och för att jobba med portfolio-sidan, är du bekant med någon av dem sedan tidigare?
 
-Nej, det är jag inte.
+Nej, Jag är inte bekant med dessa verktyg eller miljön sedan tidigare.
 
 #### Har du några förutfattade meningar, eller kanske etablerad övertygelse, inom design och användbarhet för webben?
 
-Ja, det har jag. Jag har läst kurser som behandlar grafisk design för webben så det jag lärde mig där är väl mina förutfattade meningar. Lite om hur man ska tänka kring typsnitt, färg och layout. Att tänka på läsbarheten t ex när man väljer typsnitt och hur man kan jobba med det för att skapa bättre läsbarhet.
+Ja, som jag nämnde ovan att jag har läst estetik och Media(film/foto). Jag har jobbat med photoshop och lightroom men inte något som är användbar till webben.
 
 #### Hur kändes det att göra din egna layout och styla den? Gick det bra?
 
-Det gick ganska bra, i början så hade jag lite svårt att förstå hur jag komma åt vissa element i min style.css. Men efter jag inspekterade sidan så kunde jag oftast lista ut vilken class jag skulle använda för att få fram det utseendet jag ville ha.
+Det gick bra efter hela dagen gick på det. de var svårt för mig att läsa av koden i början så det tog några försök innan jag fattade vad som är vad. jag var inte nöjd med en style som inte hade någon logo så jag gjorde om allt. Jag tror den liknar dbwebb men jag har försökt jobba så mycket från min sida så möjligt. Jag tycker Design kräver mycket tid att prova oika saker, vilken som passar bäst. Jag kommer uppdatera mycket bättre i kommande kmom.
 
 #### Vilken är din TIL för detta kmom?
 
