@@ -5,7 +5,7 @@ Tagline: My portfolio.
 Social:
     - title: Github Repo
       url: https://github.com/nabilzafari/portfolio
-      icon: fab fa-github
+      icon: fab fa-github-square
 
 instagram:
     - title: Instagram Page
