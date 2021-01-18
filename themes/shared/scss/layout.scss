@@ -328,13 +328,13 @@ p, hr, table, .table-responsive, ol, ul, dl, dd, pre, blockquote, fieldset {
 }
 
 a {
-    color: #2eae9b;
-    text-decoration: none;
+    color: #f7f7f7;
+    text-decoration: underline;
     transition: color 0.2s ease-in;
 }
 
 a:hover {
-    color: #444;
+    color: rgb(121, 112, 112);
 }
 
 h1, h2, h3, h4, h5, h6 {

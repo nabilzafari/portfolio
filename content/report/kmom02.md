@@ -3,9 +3,18 @@ Title: Kmom02
 Description: Part 2
 ---
 
-Kursmoment 2
-==================
+<div class="kmom-box-menu">
+<a href="kmom01">Kmom01</a>
+<a href="kmom02">Kmom02</a>
+<a href="kmom03">Kmom03</a>
+<a href="kmom04">Kmom04</a>
+<a href="kmom05">Kmom05</a>
+<a href="kmom06">Kmom06</a>
+<a href="kmom10">Projekt</a></div>
 
+<div class="kmoms">
+
+<h2>Kursmoment 2</h2>
 
 
 Jag tycker det är lite förvirande, att ha koll på flera filer och variabler. Det är positive att kunna använda moduler för att minska koden men jag tycker det kommer ta tid innan man kommer in ordentlig i det. Portfolio filer är ganska mycket att ha koll på, jag tycker det svåraste är att hitta rätt fil i rätt mapp. Jag har alltid haft svårt med sökvägen.
@@ -14,6 +23,5 @@ Jag är inte bekant med Node, npm eller nom scripts sedan tidigare. Allt detta �
 
 Från början av terminen har jag valt att göra me sidorna som min fotography portfolio. Jag siktar det mesta på att visa och uttrycka mig själv som en fotograf. Jag har valt att lägga min action fotography bild som bakgrund. Jag har tänkt att göra en gallery sida i kommande kmoms ifall jag hinner det. Mitt logo är en png bild på en camera som reflekterar websidans tema. Jag har inte delat upp min kod, jag var mycket förvirad och ville ha en fungerande sida och ville inte klura för mycket än.
 
-##### TIL
-
 Min TIL för detta kmom är Moduler, Fontawesome, Google Fonts, Sass, Hero image.
+</div>
