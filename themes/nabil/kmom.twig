@@ -17,9 +17,11 @@
         <link rel="canonical" href="{{ current_page.url }}" />
     {% endif %}
 
-
-
-    <link rel="stylesheet" href="{{ theme_url }}/css/style.css" type="text/css" />
+    {% if config.session.theme == "dark" %}
+        <link rel="stylesheet" href="{{ theme_url }}/css/style-dark.css" type="text/css" />
+    {% else %}
+        <link rel="stylesheet" href="{{ theme_url }}/css/style.css" type="text/css" />
+    {% endif %}
 
 </head>
 <!-- "Widescreen-mode" can be activated in portfolio/config/config.yml -->
@@ -108,6 +110,23 @@
                     <a href="{{ youtube.url }}" title="{{ youtube.title }}" role="button">
                         <i class="{{ youtube.icon }}" aria-hidden="true"></i>
                         <span class="sr-only">{{ youtube.title }}</span>
+                </a>
+                {% endfor %}
+            </div>
+
+            <div class="youtube">
+                {% for theme in pages["_meta"].meta.theme %}
+                    <a href="{{ theme.url }}" title="{{ theme.title }}" role="button">
+                        <i class="{{ theme.icon }}" aria-hidden="true"></i>
+                        <span class="sr-only">{{ theme.title }}</span>
+                </a>
+                {% endfor %}
+            </div>
+            <div class="youtube">
+                {% for destroy in pages["_meta"].meta.destroy %}
+                    <a href="{{ destroy.url }}" title="{{ theme.destroy }}" role="button">
+                        <i class="{{ destroy.icon }}" aria-hidden="true"></i>
+                        <span class="sr-only">{{ destroy.title }}</span>
                 </a>
                 {% endfor %}
             </div>

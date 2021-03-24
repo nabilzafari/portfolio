@@ -6878,13 +6878,13 @@ body {
 /* very ugly overflow fix, avoid this whenever possible! */
 .main .container {
   overflow-x: auto;
-  background-color: rgba(255, 255, 255, 0.767);
-  border: 2px solid #000;
+  background-color: rgba(0, 0, 0, 0.767);
+  border: 2px solid white;
 }
 
 /*** BASIC LAYOUT: HEADER ***/
 .header {
-  background: #fff7;
+  background: rgba(0, 0, 0, 0.467);
   text-emphasis-color: #fff;
 }
 
@@ -6897,7 +6897,7 @@ body {
 
 .title * {
   margin: 0;
-  color: #111;
+  color: white;
 }
 
 .title p {
@@ -6946,14 +6946,13 @@ body {
 
 .nav a,
 .nav-toggle {
-  color: #333;
+  color: white;
 }
 
 .nav .active a,
 .nav a:hover,
 .nav-toggle:hover {
-  color: #404237;
-  text-decoration: underline;
+  text-decoration: solid #2eae9b;
 }
 
 .nav a:hover,
@@ -7121,7 +7120,7 @@ body {
   font-variant-ligatures: common-ligatures;
   text-rendering: optimizeLegibility;
   font-kerning: normal;
-  color: black;
+  color: white;
   padding: 0.2em;
 }
 
@@ -7167,7 +7166,7 @@ h5,
 h6 {
   margin-bottom: 0.6em;
   font-weight: bold;
-  color: black;
+  color: white;
 }
 
 h1 {
@@ -7509,9 +7508,9 @@ button::-moz-focus-inner {
 .landingpage h1 {
   grid-column: span 3;
   justify-self: center;
-  background-color: rgba(255, 255, 255, 0.767);
+  background-color: rgba(0, 0, 0, 0.767);
   padding: 0.3em;
-  border: 2px solid #000;
+  border: 2px solid white;
 }
 
 .kmombox {
@@ -7521,12 +7520,12 @@ button::-moz-focus-inner {
   flex-direction: column;
   align-items: center;
   padding: 1em;
-  background-color: rgba(255, 255, 255, 0.767);
-  border: 2px solid #000;
+  background-color: rgba(0, 0, 0, 0.767);
+  border: 2px solid white;
 }
 
 .kmombox a {
-  text-decoration: underline 1px solid #000;
+  text-decoration: underline 1px solid white;
 }
 
 .kmombox.pr {
@@ -7545,7 +7544,7 @@ button::-moz-focus-inner {
   justify-items: center;
   margin-top: 2em;
   padding: 1em;
-  text-decoration-color: #000;
+  text-decoration-color: white;
 }
 
 .kmoms {
@@ -7553,7 +7552,7 @@ button::-moz-focus-inner {
   flex-direction: column;
   grid-column: span 1;
   padding-left: 1em;
-  color: #000;
+  color: white;
 }
 
 @media (max-width: 767px) {

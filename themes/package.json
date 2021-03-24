@@ -6,8 +6,12 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "lint": "stylelint \"**/*.scss\"",
-    "style": "sass nabil/scss/style.scss nabil/css/style.css --no-source-map",
-    "style-min": "sass nabil/scss/style.scss nabil/css/style.min.css --no-source-map --style compressed"
+    "style": "npm run style-light && npm run style-dark",
+    "style-min": "npm run style-light-min && npm run style-dark-min",
+    "style-light": "sass nabil/scss/style.scss nabil/css/style.css --no-source-map",
+    "style-light-min": "sass nabil/scss/style.scss nabil/css/style.min.css --no-source-map --style compressed",
+    "style-dark": "sass nabil/scss/style-dark.scss nabil/css/style-dark.css --no-source-map",
+    "style-dark-min": "sass nabil/scss/style-dark.scss nabil/css/style-dark.min.css --no-source-map --style compressed"
   },
   "keywords": [],
   "author": "",

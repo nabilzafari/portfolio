@@ -12,18 +12,28 @@ instagram:
       url: https://instagram.com
       icon: fab fa-instagram-square
 
-facebook:
-    - title: Facebook Page
-      url: https://facebook.com
-      icon: fab fa-facebook-square
+# facebook:
+#     - title: Facebook Page
+#       url: https://facebook.com
+#       icon: fab fa-facebook-square
 
-twitter:
-    - title: Twitter Page
-      url: https://twitter.com
-      icon: fab fa-twitter-square
+# twitter:
+#     - title: Twitter Page
+#       url: https://twitter.com
+#       icon: fab fa-twitter-square
 
 youtube:
     - title: Youtube Page
       url: https://youtube.com
-      icon: fab fa-youtube-square 
+      icon: fab fa-youtube-square
+
+destroy:
+    - title: Destroy Session
+      url: ?action=dession_destroy
+      icon: fas fa-trash
+
+theme:
+    - title: Dark theme
+      url: ?action=theme
+      icon: fas fa-moon
 ---
