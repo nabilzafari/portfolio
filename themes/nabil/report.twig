@@ -88,30 +88,6 @@
                     </a>
                     {% endfor %}
             </div>
-            <div class="facebook">
-                {% for facebook in pages["_meta"].meta.facebook %}
-                    <a href="{{ facebook.url }}" title="{{ facebook.title }}" role="button">
-                        <i class="{{ facebook.icon }}" aria-hidden="true"></i>
-                        <span class="sr-only">{{ facebook.title }}</span>
-                </a>
-                {% endfor %}
-            </div>
-            <div class="twitter">
-                {% for twitter in pages["_meta"].meta.twitter %}
-                    <a href="{{ twitter.url }}" title="{{ twitter.title }}" role="button">
-                        <i class="{{ twitter.icon }}" aria-hidden="true"></i>
-                        <span class="sr-only">{{ twitter.title }}</span>
-                </a>
-                {% endfor %}
-            </div>
-            <div class="youtube">
-                {% for youtube in pages["_meta"].meta.youtube %}
-                    <a href="{{ youtube.url }}" title="{{ youtube.title }}" role="button">
-                        <i class="{{ youtube.icon }}" aria-hidden="true"></i>
-                        <span class="sr-only">{{ youtube.title }}</span>
-                </a>
-                {% endfor %}
-            </div>
 
             <div class="youtube">
                 {% for theme in pages["_meta"].meta.theme %}

@@ -30,6 +30,4 @@ Description: Part 4
 <h3><br>Vilken är din TIL för detta kmom?</h3>
     Min TIL är färgschema, komplmentfärg, analogt färg, Dark theme var häftig jag hade velat sätta automatisk med tid att på kvällar så ska den vara dark och ljus på dagen. 
 
-
-
 </div>

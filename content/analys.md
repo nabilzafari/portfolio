@@ -13,7 +13,7 @@ Analys
 
 <div class="kmombox">
 	<a href="analys/analys02"><h2>Analys 03</h2></a>
-	<a href="analys/analys02"><h4>Under construction</h4></a>
+	<a href="analys/analys02"><h4>Bild-PageSpeed</h4></a>
 </div>
 
 <div class="kmombox">

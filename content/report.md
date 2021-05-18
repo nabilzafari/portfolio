@@ -28,7 +28,7 @@ Presentations
 
 <div class="kmombox">
 	<a href="report/kmom05"><h2>Kmom05</h2></a>
-	<a href="report/kmom05"><h4>Coming soon...</h4></a>
+	<a href="report/kmom05"><h4>Gallery-PageSpeed</h4></a>
 </div>
 
 <div class="kmombox">
