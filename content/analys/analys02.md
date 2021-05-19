@@ -6,7 +6,7 @@ I detta kursmoment jag ska undersöka ett antal websidors laddningstid. Jag ska 
 Urval
 -----------------------
 
-Jag har valt websidan<a href="https://www.blocket.se"><p>Blocket</p></a><a href="https://www.nike.com/se/en/"><p>Nike</p></a><a href="https://www.asos.com"><p>Asos</p></a>Jag ska undersöka dessa tre websidors laddningstid beroende på  bilder och artiklar.
+Jag har valt websidan <a href="https://www.blocket.se">Blocket</a>, <a href="https://www.nike.com/se/en/">Nike</a> och <a href="https://www.asos.com">Asos</a>. Jag ska undersöka dessa tre websidors laddningstid beroende på  bilder och artiklar.
 
 
 Metod
@@ -17,7 +17,7 @@ Jag använder Google Pagespeed Insights och Developers Tools Network för att ku
 Resultat
 -----------------------
 
-<a href="https://docs.google.com/spreadsheets/d/1TvBQZ8DZ91DeBqlQVKwyZeDoW939pDzWHU5SM33Sg94/edit?usp=sharing"><h3>Excel Sheet</h3></a>
+<a href="https://docs.google.com/spreadsheets/d/1TvBQZ8DZ91DeBqlQVKwyZeDoW939pDzWHU5SM33Sg94/edit?usp=sharing">Excel Sheet</a>
 <img src="../assets/img/blocket.jpg" alt="blocket">
 
 
@@ -50,7 +50,7 @@ Jag tycker Nike är vinnare eftersom den har det minsta betyg enligt pagespeed v
 
 Referenser
 -----------------------
-<a href="https://moz.com/learn/seo/page-speed"><h3>Moz om Page Speed</h3></a>
+<a href="https://moz.com/learn/seo/page-speed">Moz om Page Speed</a>
 
 
 Övrigt

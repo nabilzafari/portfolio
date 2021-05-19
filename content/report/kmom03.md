@@ -16,7 +16,7 @@ Description: Part 3
 
 <div class="kmoms">
 
-
+<h2>Kursmoment 3</h2>
 
 <h3>Hur har det gått att jobba med CSS-Grid/Flexbox?</h3>
 	Det gick bra med att jobba med CSS-Grid/Flexbox, Niklas genomgång är tydliga och man får en bra bild hur dessa funktioner jobbar. Jag vet inte men när jag kör "npm run lint" så jag får massa indentation validerings fel i fontawesome filerna. Jag har pratat med Ida om detta. 

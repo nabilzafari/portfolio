@@ -6,7 +6,7 @@ Jag har genomfört en studie för att undersöka och jämföra webbplatsers val 
 Urval
 -----------------------
 
-Jag har valt  3 olika webbplatser som är helt annorlunda med sitt tema, funktionalitet och utseendet. Dessa sidor är<a href="https://www.zalando.se"><p>Zalando</p></a><a href="https://www.apple.com/se"><p>Apple</p></a><a href="https://arbetsformedlingen.se/"><p>Arbetsförmedling</p></a> Jag ska analysera dess färg uppläg på dess websidor. Jag brukar handla på zalando och tycker deras websidan ser bra ut, dessutom är jag intressear i apple produkter och deras websidan är fantastisk tycker jag till slut ville jag något helt annorlunda så valde jag arbetsörmedlingen.
+Jag har valt  3 olika webbplatser som är helt annorlunda med sitt tema, funktionalitet och utseendet. Dessa sidor är <a href="https://www.zalando.se">Zalando</a>, <a href="https://www.apple.com/se">Apple</a> och <a href="https://arbetsformedlingen.se/">Arbetsförmedling</a>. Jag ska analysera dess färg uppläg på dess websidor. Jag brukar handla på zalando och tycker deras websidan ser bra ut, dessutom är jag intressear i apple produkter och deras websidan är fantastisk tycker jag till slut ville jag något helt annorlunda så valde jag arbetsörmedlingen.
 
 Metod
 -----------------------
@@ -27,9 +27,9 @@ Resultat
 </tr>
 </table>
 
-##### Färgschema:
+### Färgschema:
 Analogt färgschema för att skapa en lugn och sammanhängande känsla på webbplatsen.
-##### Typsnitt:
+### Typsnitt:
 I websidan så används Tiempos,Times New Roman,serif och HelveticaNow,Helvetica,sans-serif
 
 www.zalando.se har olika färgtema beroende på kategori och jag tycker det är super bra. Jag har valt barn kategori och man ser väldigt tydligt att färgtema passar just det målgruppen. 
@@ -48,9 +48,9 @@ www.zalando.se har olika färgtema beroende på kategori och jag tycker det är 
 </tr>
 </table>
 
-##### Färgschema:
+### Färgschema:
 Jag tycker man kan tolka färgschema på websidan som monokromiskt på grund av själva sidan innehåller helt svart och vit template medans samtidigt så finns det olika färger på deras produkter. 
-##### Typsnitt:
+### Typsnitt:
 I websidan används "SF Pro Text","Myriad Set Pro","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif som font typsnitt. 
 
 Apple är en av mest kända märke över hela världen. Websidan är välkomande, enkel, tydligt, modern och man får en snabb bild på deras senaste produkt dvs Iphone ?(iphone12 i nuläget). I websidan finns det mycket vit utrymme för att locka människans fokus just på produkten som är centererad. Man får en proffsig känsla av websidan. 
@@ -66,10 +66,10 @@ Apple är en av mest kända märke över hela världen. Websidan är välkomande
 </tr>
 </table>
 
-##### Färgschema:
+### Färgschema:
 Jag tycker man kan tolka färgschema på websidan som komplmentfärg för att lila och grön samt rosa och grön ligger nästa motsat varandra på färgcirkel. I websidan används mest lila som header och footer men samtidigt body är mest vit för att trycka ordentlig den lila färgen som identisk just för arbetsförmedlingen. 
 
-##### Typsnitt:
+### Typsnitt:
 I websidan används 'Open Sans',sans-serif som font typsnit.
 
 Arbetsförmedling är en statlig myndighet. Websidan är trevligt välkommande för personer som behöver stöd att hitta ett jobb. På första sidan stör det artiklar som berörs mycket i samhället. 

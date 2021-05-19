@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html class="no-js">
+<html lang="en" class="no-js">
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -33,7 +33,6 @@
             </a>
             {% if pages["_meta"].meta.logo %}
                 <div class="logo" aria-hidden="true">
-                    <a href="{{ "index"|link }}">
                         <img src="{{ base_url }}/{{ pages["_meta"].meta.logo|url }}" alt="" />
                     </a>
                 </div>
@@ -59,13 +58,13 @@
             </div>
         </div>
     </div>
-                <!--      <img class="flash-img" src="{{ base_url }}/image/sunset.jpg?sc=banner1&a=40,0,0,0"> -->
+
 
     <div class="main" role="main">
         {# {{ dump( config.session )}} #}
         <div class="container">
             {{ content }}
-            <img class="me-img" src="{{ base_url }}/image/nabil.jpg?">
+            <img class="me-img" src="{{ base_url }}/image/nabil.jpg?" alt="Nabil">
         </div>
     </div>
                 

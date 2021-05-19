@@ -14,6 +14,9 @@ Description: Part 5
 </div>
 
 <div class="kmoms">
+
+<h2>Kursmoment 5</h2>
+
 <h3>Berätta kort om erfarenheterna med din undersökning av webbplatsers laddningstid och vad du kom fram till.</h3>
     När jag körde pageSpeed så det gick inte att analysera ett par gånger och jag var tvungen att stäng av webläsaren och startar på nytt, jag vet inte varför det hände. Jag hade lite svårt att tolka resurser i webdevelopers tools men sedan jag kom på att det menade med antal request. Jag är vann att alltid reloada webbsidan med cmd + shift + r så det gick bra och jag inte fick cached.
 <h3><br>Har du några funderingar kring Cimage och dess nytta och features? Vilka bildverktyg använder du själv normalt sett?</h3>
@@ -24,6 +27,6 @@ Description: Part 5
     Min til för detta kmom är Ciimage, twigg filens kod del, responsiv bild och iframe videoklipp. jag menar den som ligger här under.<p><br></p>
 
 <div class="embed-container">
-    <iframe src="https://www.youtube.com/embed/PW8tr4j1ZWE" frameborder="0" allowfullscreen></iframe>
+    <iframe title="Photography" src="https://www.youtube.com/embed/PW8tr4j1ZWE" frameborder="0" allowfullscreen></iframe>
 </div>
 </div>

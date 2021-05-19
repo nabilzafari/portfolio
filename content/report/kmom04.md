@@ -15,6 +15,8 @@ Description: Part 4
 
 <div class="kmoms">
 
+<h2>Kursmoment 4</h2>
+
 <h3>Kommentera kort om skrivuppgiften, något som är värt att nämna från arbetet med den?</h3>
     Jag tycker det var bra att vi fick veta lite om strukturen av rapport inför examensarbete.<br>
 <h3><br>Vilket färgschema valde du till ditt tema och hur valde du att använda färgerna (mer eller mindre eller lika mycket av alla färger)?</h3>
